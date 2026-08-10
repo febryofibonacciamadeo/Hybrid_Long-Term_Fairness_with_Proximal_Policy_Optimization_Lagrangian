@@ -1,0 +1,20 @@
+{
+  "checkpoint": "outputs\\hltf_final\\checkpoints\\model_final.pt",
+  "checkpoint_iteration": 1000,
+  "checkpoint_mode": "hltf",
+  "delta_f": 0.02,
+  "scenario": 0,
+  "hidden_dim": 256,
+  "n_layers": 2,
+  "obs_dim": 122,
+  "act_dim": 30,
+  "device": "cpu",
+  "policy": "deterministic",
+  "seed": 1001,
+  "requested_steps": 52,
+  "completed_steps": 52,
+  "outputs": {
+    "decisions_csv": "outputs\\inference\\hltf_seed1001_52Pekan\\inference_decisions.csv",
+    "allocations_csv": "outputs\\inference\\hltf_seed1001_52Pekan\\inference_allocations.csv"
+  }
+}

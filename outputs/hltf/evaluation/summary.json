@@ -1,0 +1,20 @@
+[
+  {
+    "kelompok": "Test-split (held-out)",
+    "n_episode": 250,
+    "reward_mean": 0.08674769174014903,
+    "reward_std": 0.0016861451845675613,
+    "delta_lbr_mean": 0.01618175173742106,
+    "delta_lbr_std": 0.0001891063106851552,
+    "violation_rate_mean": 0.06953846153846155
+  },
+  {
+    "kelompok": "Skenario baru (id=2)",
+    "n_episode": 5,
+    "reward_mean": 0.03571957662303259,
+    "reward_std": 0.0010120361337827067,
+    "delta_lbr_mean": 0.022780537670443374,
+    "delta_lbr_std": 6.131597809949092e-05,
+    "violation_rate_mean": 0.7692307692307693
+  }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "experiment": "HLTF_default",
+        "delta_f": 0.008,
+        "lr_lambda": 0.1,
+        "reward": 0.08537074227467728,
+        "fairness": 0.014582976997254093,
+        "violation_rate": 0.9269230769230771,
+        "lambda": 0.13329596600669896
+    },
+    {
+        "experiment": "HLTF_relaxed",
+        "delta_f": 0.012,
+        "lr_lambda": 0.1,
+        "reward": 0.0852048181984032,
+        "fairness": 0.012908915499694988,
+        "violation_rate": 0.756153846153846,
+        "lambda": 0.03132017100597295
+    },
+    {
+        "experiment": "HLTF_relaxed_fast_lambda",
+        "delta_f": 0.012,
+        "lr_lambda": 0.5,
+        "reward": 0.0857653622736247,
+        "fairness": 0.01474288952510702,
+        "violation_rate": 0.8265384615384614,
+        "lambda": 0.23824500768841972
+    },
+    {
+        "experiment": "HLTF_medium",
+        "delta_f": 0.015,
+        "lr_lambda": 0.5,
+        "reward": 0.08544773275685807,
+        "fairness": 0.013622198574101766,
+        "violation_rate": 0.3719230769230769,
+        "lambda": 0.02223717447451179
+    },
+    {
+        "experiment": "HLTF_strong_constraint",
+        "delta_f": 0.008,
+        "lr_lambda": 1.0,
+        "reward": 0.08520527919996759,
+        "fairness": 0.014087555815923462,
+        "violation_rate": 0.9246153846153845,
+        "lambda": 1.3939816121419426
+    }
+]

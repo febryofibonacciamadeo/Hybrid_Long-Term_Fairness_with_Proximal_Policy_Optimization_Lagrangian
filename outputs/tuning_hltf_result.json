@@ -1,0 +1,47 @@
+[
+    {
+        "experiment": "HLTF_default",
+        "delta_f": 0.008,
+        "lr_lambda": 0.1,
+        "reward": 0.08662420636847928,
+        "fairness": 0.015056653892982002,
+        "violation_rate": 0.9323076923076923,
+        "lambda": 0.1366781313612591
+    },
+    {
+        "experiment": "HLTF_relaxed",
+        "delta_f": 0.012,
+        "lr_lambda": 0.1,
+        "reward": 0.08657059240031124,
+        "fairness": 0.014875263217176455,
+        "violation_rate": 0.839230769230769,
+        "lambda": 0.047043993689896986
+    },
+    {
+        "experiment": "HLTF_relaxed_fast_lambda",
+        "delta_f": 0.012,
+        "lr_lambda": 0.5,
+        "reward": 0.08659419525157892,
+        "fairness": 0.016425704643420695,
+        "violation_rate": 0.8619230769230768,
+        "lambda": 0.2616400962003098
+    },
+    {
+        "experiment": "HLTF_medium",
+        "delta_f": 0.015,
+        "lr_lambda": 0.5,
+        "reward": 0.08646589711030638,
+        "fairness": 0.015974498785143613,
+        "violation_rate": 0.7315384615384616,
+        "lambda": 0.07845728334174495
+    },
+    {
+        "experiment": "HLTF_strong_constraint",
+        "delta_f": 0.008,
+        "lr_lambda": 1.0,
+        "reward": 0.0866258082122479,
+        "fairness": 0.014680950664798019,
+        "violation_rate": 0.9273076923076923,
+        "lambda": 1.3115099784627091
+    }
+]

@@ -1,0 +1,2 @@
+﻿step,seed,budget,total_allocation,unallocated_budget,budget_utilization,reward,delta_lbr,delta_f,fairness_violation,fairness_cost,feasible,budget_respected,cap_respected,eligibility_ok,non_negative,log_prob,entropy
+1,1001,496489926.49743235,496489926.4974323,5.960464477539063e-08,0.9999999999999999,0.0015005971084585865,0.0023088401197216037,0.02,0,0.0,1,1,1,1,1,-27.688583374023438,42.68858337402344

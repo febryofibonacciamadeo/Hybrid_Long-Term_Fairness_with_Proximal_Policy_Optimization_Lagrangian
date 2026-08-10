@@ -1,0 +1,47 @@
+[
+    {
+        "experiment": "delta_015",
+        "delta_f": 0.015,
+        "lr_lambda": 0.5,
+        "reward": 0.08637566200912554,
+        "fairness": 0.015473421778679436,
+        "violation_rate": 0.7148076923076924,
+        "lambda_final": 1.0301688102099114
+    },
+    {
+        "experiment": "delta_017",
+        "delta_f": 0.017,
+        "lr_lambda": 0.5,
+        "reward": 0.08675786336055705,
+        "fairness": 0.016464205333385162,
+        "violation_rate": 0.6236538461538461,
+        "lambda_final": 0.49589736659975614
+    },
+    {
+        "experiment": "delta_020",
+        "delta_f": 0.02,
+        "lr_lambda": 0.5,
+        "reward": 0.0864939931176734,
+        "fairness": 0.015202136204602782,
+        "violation_rate": 0.003269230769230769,
+        "lambda_final": 0.004989554922499195
+    },
+    {
+        "experiment": "delta_025",
+        "delta_f": 0.025,
+        "lr_lambda": 0.5,
+        "reward": 0.08653298372067228,
+        "fairness": 0.016594907929285828,
+        "violation_rate": 0.0,
+        "lambda_final": 0.0
+    },
+    {
+        "experiment": "delta_017_lambda01",
+        "delta_f": 0.017,
+        "lr_lambda": 0.1,
+        "reward": 0.08664519838000402,
+        "fairness": 0.015825639022912848,
+        "violation_rate": 0.5030769230769231,
+        "lambda_final": 0.08234040785404204
+    }
+]
